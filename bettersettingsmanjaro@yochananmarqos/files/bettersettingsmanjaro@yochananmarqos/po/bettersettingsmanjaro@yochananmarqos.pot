@@ -87,10 +87,10 @@ msgstr ""
 msgid "Manjaro Settings"
 msgstr ""
 
-#. bettersettings@yochananmarqos->metadata.json->description
+#. bettersettingsmanjaro@yochananmarqos->metadata.json->description
 msgid "Better Cinnamon Settings for Manjaro"
 msgstr ""
 
-#. bettersettings@yochananmarqos->metadata.json->name
+#. bettersettingsmanjaro@yochananmarqos->metadata.json->name
 msgid "Better Cinnamon Settings for Manjaro"
 msgstr ""

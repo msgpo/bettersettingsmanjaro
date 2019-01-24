@@ -1,6 +1,6 @@
-//SIMPLE ADAPTATION OF THE DEFAULT SYSTEM SETTINGS- By yochananmarqos
+//SIMPLE ADAPTATION OF THE DEFAULT SYSTEM SETTINGS ADAPTED FOR MANJARO - By yochananmarqos
 
-const UUID = "bettersettings@yochananmarqos";
+const UUID = "bettersettingsmanjaro@yochananmarqos";
 const Lang = imports.lang;
 const St = imports.gi.St;
 const Cinnamon = imports.gi.Cinnamon;
@@ -11,7 +11,7 @@ const Util = imports.misc.util;
 const GLib = imports.gi.GLib;
 const ModalDialog = imports.ui.modalDialog;
 const Gettext = imports.gettext;
-const AppletDir = imports.ui.appletManager.appletMeta["bettersettings@yochananmarqos"].path;
+const AppletDir = imports.ui.appletManager.appletMeta["bettersettingsmanjaro@yochananmarqos"].path;
 
 Gettext.bindtextdomain(UUID, GLib.get_home_dir() + "/.local/share/locale")
 
